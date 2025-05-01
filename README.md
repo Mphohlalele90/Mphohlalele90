@@ -34,8 +34,6 @@ Web Dev	JavaScript, DOM	Daily Practice
 
 ### 📫 **Connect With Me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://www.linkedin.com/in/mpho-hlalele-b9240566)  
-[![Email](https://img.shields.io/badge/Email-mphohlalele90@gmail.com-D14836?logo=gmail)](mailto:mphohlalele90@gmail.com)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Mphohlalele90&label=Profile+Views&color=blueviolet)
+LinkedIn: https://www.linkedin.com/in/mpho-hlalele-b9240566
+Email: mphohlalele90@gmail.com
 
